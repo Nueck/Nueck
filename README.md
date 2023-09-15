@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🐱 I'm trying to write something interesting, and the process can be long and difficult, and I want to keep at it. Come on!
+
 <!--
 **Nueck/Nueck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
